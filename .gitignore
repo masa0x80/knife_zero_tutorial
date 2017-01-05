@@ -1,0 +1,8 @@
+.bundle/
+vendor/
+clients/
+cookbooks/
+
+.vagrant/
+
+.chef/data_bag_key
