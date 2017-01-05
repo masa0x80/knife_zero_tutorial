@@ -1,0 +1,12 @@
+{
+  "name": "vagrant",
+  "chef_environment": "sample",
+  "normal": {
+    "knife_zero": {
+      "host": "vagrant"
+    }
+  },
+  "run_list": [
+    "role[sample]"
+  ]
+}
