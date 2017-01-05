@@ -1,0 +1,7 @@
+{
+  "name": "sample",
+  "run_list": [
+    "build-essential",
+    "sample"
+  ]
+}
