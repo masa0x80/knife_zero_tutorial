@@ -1,9 +1,9 @@
 {
-  "name": "vagrant",
+  "name": "knife-zero-tutorial-vagrant",
   "chef_environment": "sample",
   "normal": {
     "knife_zero": {
-      "host": "vagrant"
+      "host": "knife-zero-tutorial-vagrant"
     }
   },
   "run_list": [
